@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-jiti-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@intlify/core": "^9.0.0-rc.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
